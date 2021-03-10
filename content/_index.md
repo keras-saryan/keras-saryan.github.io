@@ -10,7 +10,7 @@ I've been constructing languages for several years (since around 2011) and, thou
 
 I plan to put material up in a piecemeal fashion for the time being but, in the long run, I hope to publish reference grammars and dictionaries for certain languages of mine. However, at the moment, the only language I've uploaded information on is my current long-term project, Kamya.
 
-If you'd like to say hi, give me feedback on my work or get in touch for any other reason, you can do so by e-mail at  ``keras[dot]saryan[at]gmail[dot]com`` or, if you prefer, I'm also on Reddit as [u/keras_saryan](https://www.reddit.com/user/keras_saryan).
+If you'd like to say hi, give me feedback on my work or get in touch for any other reason, you can do so by e-mail at ``keras[dot]saryan[at]gmail[dot]com`` or, if you prefer, I'm also on Reddit as [u/keras_saryan](https://www.reddit.com/user/keras_saryan).
 
 Unless otherwise stated or permission is otherwise granted, all content posted here authored by me is published under a [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) licence.
 
@@ -23,6 +23,6 @@ I began Kamya in 2018 and have been working on it on and off ever since. It has 
 
 The first time information on Kamya was shared publicly was when its "focus suffix" was featured in [Episode 4](https://www.youtube.com/watch?v=MyU7XsDCIc8&t=122s) of [Artifexian](https://www.youtube.com/channel/UCeh-pJYRZTBJDXMNZeWSUVA)'s [WLRST](https://youtube.com/playlist?list=PLduA6tsl3gyjAoPbTEXUlhIlOVFSG7LMs) series (see original document [here](/docs/kamya-wlrst-2020.pdf)).
 
-Next, in March 2021, I gave a presentation entitled *The Exponence of Grammatical Number in Kamya* at the [Digital Language Creation Conference](https://conlang.org/language-creation-conference/dlcc-2021/). The slides for this talk can be seen [here](/docs/kamya-dlcc-2021.pdf), the clipped video [here](https://www.youtube.com/watch?v=NEINfK5rmO4) and that day's full livestream  [here](https://www.youtube.com/watch?v=Q7u-bB_gUeM&t=10065s).
+Next, in March 2021, I gave a presentation entitled *The Exponence of Grammatical Number in Kamya* at the [Digital Language Creation Conference](https://conlang.org/language-creation-conference/dlcc-2021/). The slides for this talk can be seen [here](/docs/kamya-dlcc-2021.pdf), the clipped video [here](https://www.youtube.com/watch?v=NEINfK5rmO4) and that day's full livestream [here](https://www.youtube.com/watch?v=Q7u-bB_gUeM&t=10065s).
 
 I'll soon also be uploading extracts from my reference grammar on additional topics, most likely on stress and numerals to begin with.
