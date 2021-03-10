@@ -5,7 +5,7 @@
 /* Webfont: CharisSIL-B */
 @font-face {
     font-family: 'Charis SIL';
-    src: url('/fonts/CharisSIL-B.ttf') format('ttf'); /* Modern Browsers */
+    src: url('fonts/CharisSIL-B.ttf') format('ttf'); /* Modern Browsers */
     font-style: normal;
     font-weight: normal;
     text-rendering: optimizeLegibility;
@@ -14,7 +14,7 @@
 /* Webfont: CharisSIL-BI */
 @font-face {
     font-family: 'Charis SIL';
-    src: url('/fonts/CharisSIL-BI.ttf') format('ttf'); /* Modern Browsers */
+    src: url('fonts/CharisSIL-BI.ttf') format('ttf'); /* Modern Browsers */
     font-style: italic;
     font-weight: normal;
     text-rendering: optimizeLegibility;
@@ -23,7 +23,7 @@
 /* Webfont: CharisSIL-I */
 @font-face {
     font-family: 'Charis SIL';
-    src: url('/fonts/CharisSIL-I.ttf') format('ttf'); /* Modern Browsers */
+    src: url('fonts/CharisSIL-I.ttf') format('ttf'); /* Modern Browsers */
     font-style: normal;
     font-weight: 700;
     text-rendering: optimizeLegibility;
@@ -32,7 +32,7 @@
 /* Webfont: CharisSIL-R */
 @font-face {
     font-family: 'Charis SIL';
-    src: url('/fonts/CharisSIL-R.ttf') format('ttf'); /* Modern Browsers */
+    src: url('fonts/CharisSIL-R.ttf') format('ttf'); /* Modern Browsers */
     font-style: normal;
     font-weight: 700;
     text-rendering: optimizeLegibility;
@@ -41,7 +41,7 @@
 /* Webfont: FiraMono-Bold */
 @font-face {
     font-family: 'Fira Mono';
-    src: url('/fonts/FiraMono-Bold.ttf') format('ttf'); /* Modern Browsers */
+    src: url('fonts/FiraMono-Bold.ttf') format('ttf'); /* Modern Browsers */
     font-style: normal;
     font-weight: 700;
     text-rendering: optimizeLegibility;
@@ -50,7 +50,7 @@
 /* Webfont: FiraMono-Regular */
 @font-face {
     font-family: 'Fira Mono';
-    src: url('/fonts/FiraMono-Regular.ttf') format('ttf'); /* Modern Browsers */
+    src: url('fonts/FiraMono-Regular.ttf') format('ttf'); /* Modern Browsers */
     font-style: normal;
     font-weight: normal;
     text-rendering: optimizeLegibility;
@@ -59,7 +59,7 @@
 /* Webfont: FiraSans-Bold */
 @font-face {
     font-family: 'Fira Sans';
-    src: url('/fonts/FiraSans-Bold.ttf') format('ttf'); /* Modern Browsers */
+    src: url('fonts/FiraSans-Bold.ttf') format('ttf'); /* Modern Browsers */
     font-style: normal;
     font-weight: 700;
     text-rendering: optimizeLegibility;
@@ -68,7 +68,7 @@
 /* Webfont: FiraSans-BoldItalic */
 @font-face {
     font-family: 'Fira Sans';
-    src: url('/fonts/FiraSans-BoldItalic.ttf') format('ttf'); /* Modern Browsers */
+    src: url('fonts/FiraSans-BoldItalic.ttf') format('ttf'); /* Modern Browsers */
     font-style: italic;
     font-weight: normal;
     text-rendering: optimizeLegibility;
@@ -77,7 +77,7 @@
 /* Webfont: FiraSans-Italic */
 @font-face {
     font-family: 'Fira Sans';
-    src: url('/fonts/FiraSans-Italic.ttf') format('ttf'); /* Modern Browsers */
+    src: url('fonts/FiraSans-Italic.ttf') format('ttf'); /* Modern Browsers */
     font-style: italic;
     font-weight: normal;
     text-rendering: optimizeLegibility;
@@ -86,7 +86,7 @@
 /* Webfont: FiraSans-Regular */
 @font-face {
     font-family: 'Fira Sans';
-    src: url('/fonts/FiraSans-Regular.ttf') format('ttf'); /* Modern Browsers */
+    src: url('fonts/FiraSans-Regular.ttf') format('ttf'); /* Modern Browsers */
     font-style: normal;
     font-weight: normal;
     text-rendering: optimizeLegibility;
