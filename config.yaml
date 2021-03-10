@@ -1,0 +1,40 @@
+title: Keras Saryan
+baseURL: https://keras-saryan.github.io/
+theme: hugo-researcher
+disableKinds:
+  - taxonomy
+  - term
+enableEmoji: yes
+math: no
+googleAnalytics: ''
+params:
+  author: Keras Saryan
+  description: My conlanging-related website
+  favicon: img/favicon.ico
+  footer:
+    text: 'Theme: Researcher by Olivier Roques'
+    url: https://github.com/ojroques/hugo-researcher
+  logo: ''
+  style:
+    colorBlack: '#000000'
+    colorRed: '#c80000'
+    avatarSize: 90px
+    pageWidth: 650px
+permalinks:
+  /: /:filename
+menu:
+  main:
+    - name: GitHub
+      url: https://github.com/keras-saryan
+      weight: 1
+    - name: Reddit
+      url: https://www.reddit.com/user/keras_saryan
+      weight: 2
+    - name: YouTube
+      url: https://www.youtube.com/channel/UCV0hdWj_AWvfxLBiOFaXoxw
+      weight: 3
+markup:
+  goldmark:
+    renderer:
+      unsafe: yes
+publishDir: "docs"
