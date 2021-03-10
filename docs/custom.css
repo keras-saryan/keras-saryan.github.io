@@ -24,7 +24,7 @@
 @font-face {
     font-family: 'Charis SIL';
     src: url('fonts/CharisSIL-I.ttf') format('truetype'); /* Modern Browsers */
-    font-style: normal;
+    font-style: italic;
     font-weight: normal;
     text-rendering: optimizeLegibility;
 }
@@ -97,7 +97,10 @@
 * {
 	font-family: 'Charis SIL';
 	color: #000000;
+    text-align: justify;
+    text-justify: inter-word;
     }
+
 .navbar-brand{
 	font-family: 'Fira Sans';
 	color: #c80000;
