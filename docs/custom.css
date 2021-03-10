@@ -7,7 +7,7 @@
     font-family: 'Charis SIL';
     src: url('fonts/CharisSIL-B.ttf') format('truetype'); /* Modern Browsers */
     font-style: normal;
-    font-weight: normal;
+    font-weight: 700;
     text-rendering: optimizeLegibility;
 }
 
@@ -16,7 +16,7 @@
     font-family: 'Charis SIL';
     src: url('fonts/CharisSIL-BI.ttf') format('truetype'); /* Modern Browsers */
     font-style: italic;
-    font-weight: normal;
+    font-weight: 700;
     text-rendering: optimizeLegibility;
 }
 
@@ -25,7 +25,7 @@
     font-family: 'Charis SIL';
     src: url('fonts/CharisSIL-I.ttf') format('truetype'); /* Modern Browsers */
     font-style: normal;
-    font-weight: 700;
+    font-weight: normal;
     text-rendering: optimizeLegibility;
 }
 
@@ -34,7 +34,7 @@
     font-family: 'Charis SIL';
     src: url('fonts/CharisSIL-R.ttf') format('truetype'); /* Modern Browsers */
     font-style: normal;
-    font-weight: 700;
+    font-weight: normal;
     text-rendering: optimizeLegibility;
 }
 
@@ -70,7 +70,7 @@
     font-family: 'Fira Sans';
     src: url('fonts/FiraSans-BoldItalic.ttf') format('truetype'); /* Modern Browsers */
     font-style: italic;
-    font-weight: normal;
+    font-weight: 700;
     text-rendering: optimizeLegibility;
 }
 
@@ -97,6 +97,7 @@
 * {
 	font-family: 'Charis SIL';
 	color: #000000;
+    font-weight: normal;
     }
 .navbar-brand{
 	font-family: 'Fira Sans';
