@@ -2,11 +2,11 @@
 title = "Keras Saryan"
 +++
 
-## About
+### About
 
 [//]: <> ({{< figure class="avatar" src="img/logo.png" >}})
 
-I've been constructing languages for several years (since around 2011) and, though I'd never really shared any of my conlanging output in the past, the purpose of this website is to host some of this work for public consumption.
+I've been constructing languages for several years now and, though I'd never really shared any of my conlanging output in the past, the purpose of this website is to host some of this work for public consumption.
 
 I plan to put material up in a piecemeal fashion for the time being but, in the long run, I hope to publish reference grammars and dictionaries for certain languages of mine. However, at the moment, the only language I've uploaded information on is my current long-term project, Kamya.
 
@@ -14,10 +14,9 @@ If you'd like to say hi, give me feedback on my work or get in touch for any oth
 
 Unless otherwise stated or permission is otherwise granted, all content posted here authored by me is published under a [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) licence.
 
+### Kamya
 
-## Kamya
-
-As mentioned above, Kamya is my current long-term project. It is set in modern-day south-eastern Europe and is intended to be a (more or less) naturalistic language.
+As mentioned above, Kamya is my current long-term project. Set in modern-day south-eastern Europe, it is intended to be a (more or less) naturalistic language.
 
 I began Kamya in 2018 and have been working on it on and off ever since. It has gone on to become the most developed language I've worked on to date, both in terms of grammar and vocabulary, as well as also one of the projects I'm more satisfied with (hence the willingness to make material on it available).
 
@@ -25,4 +24,12 @@ The first time information on Kamya was shared publicly was when its "focus suff
 
 Next, in March 2021, I gave a presentation entitled *The Exponence of Grammatical Number in Kamya* at the [Digital Language Creation Conference](https://conlang.org/language-creation-conference/dlcc-2021/). The slides for this talk can be seen [here](/docs/kamya-dlcc-2021.pdf), the clipped video [here](https://www.youtube.com/watch?v=NEINfK5rmO4) and that day's full livestream [here](https://www.youtube.com/watch?v=Q7u-bB_gUeM&t=10065s).
 
-I'll soon also be uploading extracts from my reference grammar on additional topics, most likely on stress and numerals to begin with.
+#### Reference grammar extracts
+
+I'll gradually upload polished extracts from my Kamya reference grammar on additional topics and will link to them below.[^1]
+
+* Chapter 2: Phonology and orthography
+  * Section 2.4: Stress [coming soon]
+* Chapter 7: Numerals and classifiers [coming soon]
+
+[^1]: Since these PDFs are produced from TeX files including cross-references to locations outside the document you will see undefined cross-references (i.e. ??) in certain places.
