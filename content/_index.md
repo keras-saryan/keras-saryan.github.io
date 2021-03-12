@@ -28,8 +28,23 @@ Next, in March 2021, I gave a presentation entitled *The Exponence of Grammatica
 
 I'll gradually upload polished extracts from my Kamya reference grammar on additional topics and will link to them below.[^1]
 
+* Chapter 1: Introduction
 * Chapter 2: Phonology and orthography
   * Section 2.4: [Stress](docs/kamya-stress.pdf)
-* Chapter 7: Numerals and classifiers [coming soon]
+* Chapter 3: Nouns and pronouns
+* Chapter 4: Core verbal morphology
+* Chapter 5: Determiners
+* Chapter 6: Adjectives
+* Chapter 7: Numerals and classifiers **[coming soon]**
+* Chapter 8: Possession
+* Chapter 9: Adverbs
+* Chapter 10: Impersonal constructions
+* Chapter 11: Further verbal topics
+* Chapter 12: Phrase structure
+* Chapter 13: Clause structure
+* Chapter 14: Questions
+* Chapter 15: Discourse matters
+* Chapter 16: Irregular verbs
+* Chapter 17: Derivational morphology
 
 [^1]: Since these PDFs are produced from TeX files including cross-references to locations outside the extracts in the isolated documents you will see undefined cross-references (i.e. ??) in certain places.
