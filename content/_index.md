@@ -46,5 +46,9 @@ I'll gradually upload polished extracts from my Kamya reference grammar on addit
 * Chapter 15: Discourse matters
 * Chapter 16: Irregular verbs
 * Chapter 17: Derivational morphology
+* Appendix A: Word lists
+* Appendix B: Thematic lexicon
+* Appendix C: Onomastics
+* Appendix D: Example texts
 
 [^1]: Since these PDFs are produced from TeX files including cross-references to locations outside the extracts in the isolated documents you will see undefined cross-references (i.e. ??) in certain places.
