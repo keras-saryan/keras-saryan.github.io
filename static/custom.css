@@ -126,3 +126,7 @@ h4, h5, h6 {
 code {
 	font-family: 'Fira Mono';
 }
+
+code span {
+	font-family: 'Fira Mono';
+}
