@@ -35,7 +35,7 @@ I'll gradually upload polished extracts from my Kamya reference grammar on addit
 * Chapter 4: Core verbal morphology
 * Chapter 5: Determiners
 * Chapter 6: Adjectives
-* Chapter 7: Numerals and classifiers **[coming soon]**
+* Chapter 7: [Numerals and classifiers](docs/kamya-numerals.pdf)
 * Chapter 8: Possession
 * Chapter 9: Adverbs
 * Chapter 10: Impersonal constructions
