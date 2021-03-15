@@ -47,7 +47,7 @@ I'll gradually upload polished extracts from my Kamya reference grammar on addit
 * Chapter 15: Discourse matters
 * Chapter 16: Irregular verbs
 * Chapter 17: Derivational morphology
-* Appendix A: Word lists
+* Appendix A: [Word lists](docs/kamya-word-lists.pdf)
 * Appendix B: Thematic lexicon
 * Appendix C: Onomastics
 * Appendix D: Example texts
