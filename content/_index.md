@@ -32,7 +32,7 @@ I'll gradually upload polished extracts from my Kamya reference grammar on addit
 * Chapter 2: Phonology and orthography
   * Section 2.4: [Stress](docs/kamya-stress.pdf)
 * Chapter 3: Nouns and pronouns
-  * Section 3.2: Grammatical case **[coming soon]**
+  * Section 3.2: [Grammatical case](docs/kamya-case.pdf)
 * Chapter 4: Core verbal morphology
 * Chapter 5: Determiners
 * Chapter 6: Adjectives
