@@ -25,7 +25,7 @@ My reference grammar for Kamya currently stands at around 300--350 pages and a l
 * Chapter 5: Determiners
 * Chapter 6: Adjectives
 * Chapter 7: [Numerals and classifiers](docs/kamya-numerals.pdf)
-* Chapter 8: Possession
+* Chapter 8: [Possession](docs/kamya-possession.pdf)
 * Chapter 9: Adverbs
 * Chapter 10: Impersonal constructions
 * Chapter 11: Further verbal topics
