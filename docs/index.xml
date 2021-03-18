@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Keras Saryan</title>
+    <title>Keras Saryan | About on Keras Saryan</title>
     <link>https://keras-saryan.github.io/</link>
-    <description>Recent content on Keras Saryan</description>
+    <description>Recent content in Keras Saryan | About on Keras Saryan</description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://keras-saryan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Keras Saryan | Kamya</title>
+      <link>https://keras-saryan.github.io/kamya/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://keras-saryan.github.io/kamya/</guid>
+      <description>Kamya Kamya is my current long-term project. Set in modern-day south-eastern Europe, it is intended to be a (more or less) naturalistic and, more importantly, coherent language.
+I began Kamya in 2018 and have been working on it on and off ever since. It has gone on to become the most developed language I&amp;rsquo;ve worked on to date, both in terms of grammar and vocabulary, as well as also one of the projects I&amp;rsquo;m more satisfied with (hence the willingness to make material on it available).</description>
+    </item>
+    
   </channel>
 </rss>
