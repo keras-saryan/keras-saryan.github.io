@@ -31,7 +31,7 @@ My reference grammar for Kamya currently stands at around 300--350 pages and a l
 * Chapter 11: Further verbal topics
 * Chapter 12: Phrase structure
 * Chapter 13: Clause structure
-* Chapter 14: Questions
+* Chapter 14: [Questions](../docs/kamya-questions.pdf)
 * Chapter 15: Discourse matters
 * Chapter 16: Irregular verbs
 * Chapter 17: Derivational morphology
