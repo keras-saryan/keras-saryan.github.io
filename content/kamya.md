@@ -40,4 +40,4 @@ My reference grammar for Kamya currently stands at around 300--350 pages and a l
 * Appendix C: Onomastics
 * Appendix D: Example texts
 
-[^1]: Since these PDFs are produced from TeX files including cross-references to locations outside the extracts in the isolated documents you will see undefined cross-references (i.e. ??) in certain places.
+[^1]: Since these PDFs are produced from TeX files including cross-references to locations outside the extracts in the isolated documents, you will see undefined cross-references (i.e. ??) in certain places.

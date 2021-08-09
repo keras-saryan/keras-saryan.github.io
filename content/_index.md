@@ -6,6 +6,8 @@ title = "Keras Saryan | About"
 
 [//]: <> ({{< figure class="avatar" src="img/logo.png" >}})
 
+I'm a conlanger who, in his spare time, creates artistic languages that are intended to be more or less naturalistic in nature. I also happen to be a linguist (PhD awarded May 2021) and work predominantly in the fields of phonetics and phonology.
+
 I've been constructing languages for several years now and, though I'd never really shared any of my conlanging output in the past, the purpose of this website is to host some of this work for public consumption.
 
 I plan to put material up in a piecemeal fashion for the time being but, in the long run, I hope to publish reference grammars and dictionaries for certain languages of mine. However, at the moment, the only language I've uploaded information on is my current long-term project, [Kamya](kamya).
