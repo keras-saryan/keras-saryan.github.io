@@ -12,7 +12,7 @@ The first time information on Kamya was shared publicly was when its "focus suff
 
 Next, in March 2021, I gave a presentation entitled *The exponence of grammatical number in Kamya* at the [Digital Language Creation Conference](https://conlang.org/language-creation-conference/dlcc-2021/). The slides for this talk can be seen [here](../docs/kamya-dlcc-2021.pdf), the clipped video [here](https://www.youtube.com/watch?v=NEINfK5rmO4) and that day's full livestream [here](https://www.youtube.com/watch?v=Q7u-bB_gUeM&t=10065s).
 
-More recently, I wrote an article called *Topics in adjectival meaning in Kamya* which was published in the fifth issue of r/conlang's journal *Segments*. The entire issue can be accessed [here](https://www.reddit.com/r/conlangs/comments/ug4vob/segments_a_journal_of_constructed_languages_issue/) on the Reddit post announcing its publication.
+More recently, I wrote an article called *Topics in adjectival meaning in Kamya* which was published in the fifth issue of r/conlang's journal [*Segments*](https://www.reddit.com/r/conlangs/wiki/meta/segments) on the semantic ranges of nine adjectives. The entire issue can be accessed [here](https://www.reddit.com/r/conlangs/comments/ug4vob/segments_a_journal_of_constructed_languages_issue/) on the Reddit post announcing its publication.
 
 
 #### Reference grammar extracts
