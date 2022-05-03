@@ -6,11 +6,14 @@ title = "Keras Saryan | Kamya"
 
 Kamya is my current long-term project. Set in modern-day south-eastern Europe, it is intended to be a (more or less) naturalistic and, more importantly, coherent language.
 
-I began Kamya in 2018 and have been working on it on and off ever since. It has gone on to become the most developed language I've worked on to date, both in terms of grammar and vocabulary, as well as also one of the projects I'm more satisfied with (hence the willingness to make material on it available).
+I began Kamya in 2018 and have been working on it on and off ever since. It has gone on to become the most developed language I've worked on to date, both in terms of grammar and vocabulary. It's also one of the projects I'm more satisfied with, hence my willingness to make material on it available.
 
 The first time information on Kamya was shared publicly was when its "focus suffix" was featured in [Episode 4](https://www.youtube.com/watch?v=MyU7XsDCIc8&t=122s) of [Artifexian](https://www.youtube.com/channel/UCeh-pJYRZTBJDXMNZeWSUVA)'s [WLRST](https://youtube.com/playlist?list=PLduA6tsl3gyjAoPbTEXUlhIlOVFSG7LMs) series (see original document [here](../docs/kamya-wlrst-2020.pdf)).
 
-Next, in March 2021, I gave a presentation entitled *The Exponence of Grammatical Number in Kamya* at the [Digital Language Creation Conference](https://conlang.org/language-creation-conference/dlcc-2021/). The slides for this talk can be seen [here](../docs/kamya-dlcc-2021.pdf), the clipped video [here](https://www.youtube.com/watch?v=NEINfK5rmO4) and that day's full livestream [here](https://www.youtube.com/watch?v=Q7u-bB_gUeM&t=10065s).
+Next, in March 2021, I gave a presentation entitled *The exponence of grammatical number in Kamya* at the [Digital Language Creation Conference](https://conlang.org/language-creation-conference/dlcc-2021/). The slides for this talk can be seen [here](../docs/kamya-dlcc-2021.pdf), the clipped video [here](https://www.youtube.com/watch?v=NEINfK5rmO4) and that day's full livestream [here](https://www.youtube.com/watch?v=Q7u-bB_gUeM&t=10065s).
+
+More recently, I wrote an article called *Topics in adjectival meaning in Kamya* which was published in the fifth issue of r/conlang's journal *Segments*. The entire issue can be accessed [here](https://www.reddit.com/r/conlangs/comments/ug4vob/segments_a_journal_of_constructed_languages_issue/) on the Reddit post announcing its publication.
+
 
 #### Reference grammar extracts
 
