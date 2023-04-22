@@ -33,6 +33,9 @@ menu:
     - name: YouTube
       url: https://www.youtube.com/channel/UCV0hdWj_AWvfxLBiOFaXoxw
       weight: 3
+    - name: Twitch
+      url: https://www.twitch.tv/keras_saryan
+      weight: 4
 markup:
   goldmark:
     renderer:
