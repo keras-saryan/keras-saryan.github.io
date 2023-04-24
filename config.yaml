@@ -31,7 +31,7 @@ menu:
       url: https://www.reddit.com/user/keras_saryan
       weight: 2
     - name: YouTube
-      url: https://www.youtube.com/channel/UCV0hdWj_AWvfxLBiOFaXoxw
+      url: https://www.youtube.com/@keras_saryan
       weight: 3
     - name: Twitch
       url: https://www.twitch.tv/keras_saryan
