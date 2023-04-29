@@ -10,7 +10,7 @@ I'm a conlanger who, in his spare time, creates artistic languages that are inte
 
 I've been constructing languages for several years now and, though I'd never really shared any of my conlanging output in the past, the purpose of this website is to host some of this work for public consumption.
 
-I plan to put material up in a piecemeal fashion for the time being but, in the long run, I hope to publish reference grammars and dictionaries for certain languages of mine. At the moment, the bulk of the information I've uploaded on is my long-term project, [Kamya](kamya). I have though also added a little information on a newer language, [Xwere Gonom](xwere-gonom).
+I plan to put material up in a piecemeal fashion for the time being but, in the long run, I hope to publish reference grammars and dictionaries for certain languages of mine. At the moment, the bulk of the information I've uploaded is on my long-term project, [Kamya](kamya). I have though also added a little on a newer language, [Xwere Gonom](xwere-gonom).
 
 If you'd like to say hi, give me feedback on my work or get in touch for any other reason, you can do so by e-mail at ``keras[dot]saryan[at]gmail[dot]com`` or, if you prefer, I'm also on Reddit as [u/keras_saryan](https://www.reddit.com/user/keras_saryan) and Discord at ``keras_saryan#4307``.
 

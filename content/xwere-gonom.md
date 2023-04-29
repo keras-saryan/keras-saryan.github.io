@@ -4,7 +4,7 @@ title = "Keras Saryan | Xwere Gonom"
 
 ### Xwere Gonom
 
-Xwere Gonom [ˈxʷɛɾɛ kɔˈnɔ̃] is a recent – begun October 2022 – language spoken by the Łiineed Gonom  [ɬiːˈneːt̪ kɔˈnɔ̃], a riverine people living in an area with a tropical climate and a cycle of wet/dry seasons. Their culture has a traditional emphasis on fishing and horticulture, with only a relatively limited amount of animal husbandry.
+Xwere Gonom [ˈxʷɛɾɛ kɔˈnɔ̃] is a recent – begun October 2022 – language spoken by the Łiined Gonom [ɬiːˈnɛt̪ kɔˈnɔ̃], a riverine people living in an area with a tropical climate and a cycle of wet/dry seasons. Their culture has a traditional emphasis on fishing and horticulture, with only a relatively limited amount of animal husbandry.
 
 The language is strongly head-initial, exhibiting a basic VSO constituent order, prepositions and postposed adnominal modifiers. It possesses a restrained three-case system which exhibits differential argument marking for depending on the animacy of subjects and objects. Verbs agree with their absolutive argument in person and number. There are a total of 11 aspects/moods, which are conflated into a single morphological category, but no morphological tense or voice. Grammatical number is a salient morphological category only for animate referents. Pronouns and verbal agreement distinguish clusivity in the first person and consanguinity in the first person inclusive and second person; in the third person, there is a distinction between human, other animates and inanimate.
 
