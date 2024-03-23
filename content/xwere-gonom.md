@@ -2,7 +2,7 @@
 title = "Keras Saryan | Xwere Gonom"
 +++
 
-### Xwere Gonom
+# Xwere Gonom
 
 Xwere Gonom [ˈxʷɛɾɛ kɔˈnɔ̃] – begun October 2022 – is a language spoken by the Łiined Gonom [ɬiːˈnɛt̪ kɔˈnɔ̃], a riverine people living in an area with a tropical climate and a cycle of wet/dry seasons. Their culture has a traditional emphasis on fishing and horticulture, with only a relatively limited amount of animal husbandry.
 

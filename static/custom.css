@@ -123,6 +123,30 @@ h4, h5, h6 {
   font-style: italic;
 }
 
+#content h1 {
+  font-size: 1.5rem;
+}
+
+#content h2 {
+  font-size: 1.25rem;
+}
+
+#content h3 {
+  font-size: 1.125rem;
+}
+
+#content h4 {
+  font-size: 1.125rem;
+}
+
+#content h5 {
+  font-size: 1.0625rem;
+}
+
+#content h6 {
+  font-size: 1rem;
+}
+
 code {
 	font-family: 'Fira Mono';
 }
