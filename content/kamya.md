@@ -4,20 +4,19 @@ title = "Keras Saryan | Kamya"
 
 # Kamya
 
-Kamya is my current long-term project. Set in modern-day south-eastern Europe, it is intended to be a (more or less) naturalistic and, more importantly, coherent language.
-
-I began Kamya in 2018 and have been working on it on and off ever since. It has gone on to become the most developed language I've worked on to date, both in terms of grammar and vocabulary. It's also one of the projects I'm more satisfied with, hence my willingness to make material on it available.
+Kamya is an *a priori* language set in modern-day south-eastern Europe. I began Kamya in 2018 and have been working on it on and off ever since. It has become the most developed language I've worked on to date, both in terms of grammar and vocabulary.
 
 The first time information on Kamya was shared publicly was in November 2020 when its "focus suffix" was featured in [Episode 4](https://www.youtube.com/watch?v=MyU7XsDCIc8&t=122s) of [Artifexian](https://www.youtube.com/channel/UCeh-pJYRZTBJDXMNZeWSUVA)'s [WLRST](https://youtube.com/playlist?list=PLduA6tsl3gyjAoPbTEXUlhIlOVFSG7LMs) series (see original document [here](../docs/kamya-wlrst-2020.pdf)).
 
 Next, in March 2021, I gave a presentation entitled *The exponence of grammatical number in Kamya* at the [Digital Language Creation Conference](https://conlang.org/language-creation-conference/dlcc-2021/). The slides for this talk can be seen [here](../docs/kamya-dlcc-2021.pdf), the clipped video [here](https://www.youtube.com/watch?v=NEINfK5rmO4) and that day's full livestream [here](https://www.youtube.com/watch?v=Q7u-bB_gUeM&t=10065s).
 
-In 2022, I wrote an article called *Topics in adjectival meaning in Kamya* which was published in the fifth issue of r/conlang's journal [*Segments*](https://www.reddit.com/r/conlangs/wiki/meta/segments) on the semantic ranges of nine adjectives. The entire issue can be accessed [here](https://www.reddit.com/r/conlangs/comments/ug4vob/segments_a_journal_of_constructed_languages_issue/) on the Reddit post announcing its publication.
+In 2022, I wrote an article called *Topics in adjectival meaning in Kamya* which was published in the fifth issue of [r/conlangs](https://www.reddit.com/r/conlangs/)' journal [*Segments*](https://www.reddit.com/r/conlangs/wiki/meta/segments) on the semantic ranges of nine adjectives. The entire issue can be accessed [here](https://www.reddit.com/r/conlangs/comments/ug4vob/segments_a_journal_of_constructed_languages_issue/) on the Reddit post announcing its publication.
 
+In 2025, I used Kamya in Jessie's ring of [Let's Have A Relay](https://www.youtube.com/live/uX3QSI80raY) (torch, mistakes and all, [here](../docs/kamya-lhar-2025.pdf)).
 
 ## Reference grammar extracts
 
-My reference grammar for Kamya currently stands at around 300--350 pages and a list of its current chapters is given below, including links to PDFs of polished extracts that I'm gradually uploading.[^1]
+My reference grammar for Kamya currently stands at around 300--350 pages and a list of its current chapters is given below with links to PDFs of some draft extracts.[^1]
 
 * Chapter 1: Introduction
 * Chapter 2: Phonology and orthography

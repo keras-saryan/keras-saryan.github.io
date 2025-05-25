@@ -36,6 +36,9 @@ menu:
     - name: Twitch
       url: https://www.twitch.tv/keras_saryan
       weight: 4
+    - name: Ko-fi
+      url: https://ko-fi.com/keras_saryan
+      weight: 5
 markup:
   goldmark:
     renderer:

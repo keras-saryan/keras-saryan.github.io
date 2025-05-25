@@ -12,4 +12,4 @@ The consonant phoneme inventory includes a two-way voiceless–glottalised contr
 
 In April 2023, I gave a presentation entitled *Clausal negation in Xwere Gonom* at the [10ᵗʰ Language Creation Conference](https://conlang.org/language-creation-conference/lcc10/). See the slides [here](../docs/xwg-lcc10-2023.pdf), the clipped video [here](https://www.youtube.com/watch?v=wzm6u47ney4) and that day's full livestream [here](https://www.youtube.com/watch?v=Cp4-Mmj7-RU).
 
-In 2024, I used Xwere Gonom in both the (unofficial) [LTS Relay](https://keras-saryan.github.io/lts-relay/) and the (official) LTS Mini Relay run by [Jessie](https://www.quothalinguist.com/) revealed in *LangTime Chat, Episode 59* (torch [here](../docs/xwg-lts-mini-relay-2024.pdf)).
+In 2024, I used Xwere Gonom in both the (unofficial) [LTS Relay](https://keras-saryan.github.io/lts-relay/) and the (official) LTS Mini Relay run by [Jessie](https://www.quothalinguist.com/) revealed in [*LangTime Chat, Episode 59*](https://www.youtube.com/watch?v=WQOQJ2JKV1I) (torch [here](../docs/xwg-lts-mini-relay-2024.pdf)).
