@@ -44,6 +44,7 @@ format:
     theme:
         light: [assets/common.scss, assets/light.scss]
         dark: [assets/common.scss, assets/dark.scss]
-    include-in-header: assets/fonts.html
+    css: assets/fonts.css
+    #include-in-header: assets/fonts.html
 
 editor: source
