@@ -1,0 +1,9 @@
+---
+title: "Sar̃ifa"
+---
+
+Sar̃ifa [ˈsaɾɪɸə] is a head-final language with a basic SOV constituent order. Nouns have a singular--paucal--plural number distinction; the plural is formed in various lexically-determined ways with the paucal being built off the plural, though sometimes with additional changes. Verbs are conjugated for person/number, tense/aspect, mood and voice. Verb stems and person markers both possess short and long forms and it is the combination of these short and long forms that expresses tense/aspect. Sar̃ifa also makes copious use of converbs and applicatives. The phonemic inventory includes ejectives and implosive /ɓ/ as well as labialised velars and glottals. There are various phonological processes of assimilation, dissimilation and reduction, some of which are still fully predictable whereas others have become lexicalised to some degree.
+
+## Output
+
+In 2025, I used Sar̃ifa in the LTS story relay revealed in [*LangTime Studio, Special Episode 17*](https://www.youtube.com/live/BiZAd07qO4c?si=4BRw4VLzrCW-MlNu) on the eve of [Kopikon II](https://kopikon.com/kopikon2/) (torch [here](../files/srf-lts-story-relay-2025.pdf)).

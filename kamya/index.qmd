@@ -1,0 +1,49 @@
+---
+title: "Kamya"
+---
+
+Kamya [ˈkamja] is an *a priori* language set in modern-day south-eastern Europe. I began Kamya in 2018 and have been working on it on and off ever since. It has become the most developed language I've worked on to date, both in terms of grammar and vocabulary.
+
+The language has a basic SVO constituent order but is strongly head-final in noun phrases; it notably lacks adpositions. It has eight core cases and its alignment is predominantly nominative--accusative with a dab of fluid-S as the dative can be used to express non-volitional subjects. Verbs agree with their subjects in number regardless of whether that is made explicit on the subject itself; they also inflect for various combinations of tense, mood and voice. Kamya has a fairly standard phonological system by European standards, though stress is antepenultimate by default, which is rather uncommon cross-linguistically.
+
+## Output
+
+The first time I shared information on Kamya publicly was in November 2020 when its "focus suffix" was featured in [Episode 4](https://www.youtube.com/watch?v=MyU7XsDCIc8&t=122s) of [Artifexian](https://www.youtube.com/channel/UCeh-pJYRZTBJDXMNZeWSUVA)'s [WLRST](https://youtube.com/playlist?list=PLduA6tsl3gyjAoPbTEXUlhIlOVFSG7LMs) series (see original document [here](../files/kamya-wlrst-2020.pdf)).
+
+In January 2021, I translated a version of the folk tale [*Stone Soup*](https://en.wikipedia.org/wiki/Stone_Soup) into Kamya for a Reddit showcase which never materialised. You can read the document I submitted [here](../files/kamya-reddit-showcase-2021.pdf), which includes some notes on points of grammar found in the text.
+
+In March 2021, I gave a presentation entitled *The exponence of grammatical number in Kamya* at the [Digital Language Creation Conference](https://conlang.org/language-creation-conference/dlcc-2021/). The slides for this talk can be seen [here](../files/kamya-dlcc-2021.pdf), the clipped video [here](https://www.youtube.com/watch?v=NEINfK5rmO4) and the full livestream [here](https://www.youtube.com/watch?v=Q7u-bB_gUeM&t=10065s).
+
+In 2022, I wrote an article called *Topics in adjectival meaning in Kamya* which was published in the fifth issue of [r/conlangs](https://www.reddit.com/r/conlangs/)' journal [*Segments*](https://www.reddit.com/r/conlangs/wiki/meta/segments) on the semantic ranges of nine adjectives. The entire issue can be accessed [here](https://www.reddit.com/r/conlangs/comments/ug4vob/segments_a_journal_of_constructed_languages_issue/) and the individual article [here](../files/kamya-segments-adjectives-2022.pdf).
+
+In 2025, I used Kamya in [Jessie](https://www.quothalinguist.com/)'s ring of [Let's Have A Relay](https://www.youtube.com/live/uX3QSI80raY) (torch, mistakes and all, [here](../files/kamya-lhar-2025.pdf)).
+
+## Reference grammar extracts
+
+My (WIP) reference grammar for Kamya currently stands at around 300--350 pages and a list of its current chapters is given below with links to PDFs of some draft extracts.[^1]
+
+* Chapter 1: Introduction
+* Chapter 2: Phonology and orthography
+  * Section 2.4: [Stress](../files/kamya-stress.pdf)
+* Chapter 3: Nouns and pronouns
+  * Section 3.2: [Grammatical case](../files/kamya-case.pdf)
+* Chapter 4: Core verbal morphology
+* Chapter 5: Determiners
+* Chapter 6: Adjectives
+* Chapter 7: [Numerals and classifiers](../files/kamya-numerals.pdf)
+* Chapter 8: [Possession](../files/kamya-possession.pdf)
+* Chapter 9: Adverbs
+* Chapter 10: Impersonal constructions
+* Chapter 11: Further verbal topics
+* Chapter 12: Phrase structure
+* Chapter 13: Clause structure
+* Chapter 14: [Questions](../files/kamya-questions.pdf)
+* Chapter 15: Discourse matters
+* Chapter 16: Irregular verbs
+* Chapter 17: Derivational morphology
+* Appendix A: [Word lists](../files/kamya-word-lists.pdf)
+* Appendix B: Thematic lexicon
+* Appendix C: Onomastics
+* Appendix D: Example texts
+
+[^1]: Since these PDFs are produced from LaTeX files including cross-references to locations outside the extracts in the isolated documents, you will see undefined cross-references (i.e. ??) in certain places.

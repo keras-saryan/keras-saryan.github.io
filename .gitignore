@@ -1,5 +1,7 @@
-.hugo_bulid.lock
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
+
+/.quarto/
+/_site/

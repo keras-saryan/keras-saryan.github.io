@@ -1,0 +1,136 @@
+/*-- scss:defaults --*/
+// Variable overrides (these must appear before rules)
+$primary: #c00000;
+
+$font-family-serif: "Charis SIL";
+$font-family-sans-serif: "Fira Sans";
+$font-family-monospace: "Fira Mono";
+
+$link-color: $primary;
+$navbar-bg: $primary;
+$navbar-fg: $body-bg;
+$sidebar-bg: $body-bg;
+$sidebar-fg: $body-color;
+
+/*-- scss:rules --*/
+// Your custom CSS rules go here
+
+body {
+  font-family: "Charis SIL";
+}
+
+.navbar, .nav-link, .sidebar-item, #toc-title, .breadcrumb, .title, h1, h2, h3, h4, h5, h6, button {
+  font-family: "Fira Sans";
+}
+
+.navbar {
+  background-color: $primary;
+  color: $body-bg;
+}
+
+.navbar-title {
+  font-size: 2.1rem;
+  font-weight: bold;
+  color: $body-bg;
+}
+
+.title {
+  font-size: 1.7rem;
+  font-weight: bold;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 2rem !important;
+  margin-bottom: 1rem !important;
+}
+
+h1 {
+  font-size: 1.7rem;
+}
+
+h2 {
+  font-size: 1.3rem;
+}
+
+h3 {
+  font-size: 1.3rem;
+  font-style: italic;
+}
+
+h4 {
+  font-size: 1.1rem;
+}
+
+h5 {
+  font-size: 1.1rem;
+  font-style: italic;
+}
+
+h6 {
+  font-size: 0.975rem;
+  font-style: italic;
+}
+
+p, ul, ol, li, .menu-text {
+  text-align: justify;
+  font-size: 0.975rem;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.sidebar-item, #toc-title, .breadcrumb, .dropdown-text {
+  font-size: 0.9125rem !important;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.nav-link {
+  font-size: 0.9rem !important;
+}
+
+.dropdown-menu.show {
+  background-color: darken($primary, 2.5%);
+}
+
+.menu-text {
+  color: $body-bg;
+}
+
+.dropdown-item:hover {
+  color: $body-color;
+  background-color: $body-bg;
+}
+
+.menu-text:hover, .dropdown-item {
+  color: $body-bg;
+}
+
+.callout {
+  background-color: $code-bg;
+  border-color: $body-color !important;
+}
+
+.callout-note.callout {
+  border-left-color: #0d6efd !important;
+}
+
+.tippy-content {
+  border: $body-color;
+  background-color: darken($body-bg, 2.5%);
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a:active {
+  text-decoration: none;
+}

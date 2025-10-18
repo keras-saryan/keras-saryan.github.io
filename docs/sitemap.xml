@@ -1,11 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://keras-saryan.github.io/</loc>
-  </url><url>
-    <loc>https://keras-saryan.github.io/kamya/</loc>
-  </url><url>
-    <loc>https://keras-saryan.github.io/xwere-gonom/</loc>
+    <loc>https://keras-saryan.github.io/xwere-gonom/index.html</loc>
+    <lastmod>2025-10-17T09:08:49.974Z</lastmod>
+  </url>
+  <url>
+    <loc>https://keras-saryan.github.io/kamya/index.html</loc>
+    <lastmod>2025-10-17T11:55:56.827Z</lastmod>
+  </url>
+  <url>
+    <loc>https://keras-saryan.github.io/anderiva/index.html</loc>
+    <lastmod>2025-10-17T11:55:16.437Z</lastmod>
+  </url>
+  <url>
+    <loc>https://keras-saryan.github.io/index.html</loc>
+    <lastmod>2025-10-17T11:50:52.941Z</lastmod>
+  </url>
+  <url>
+    <loc>https://keras-saryan.github.io/sarifa/index.html</loc>
+    <lastmod>2025-10-16T11:44:39.763Z</lastmod>
   </url>
 </urlset>

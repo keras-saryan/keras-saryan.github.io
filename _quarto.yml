@@ -1,0 +1,49 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - files
+    - .nojekyll
+
+website:
+  title: "Keras Saryan"
+  description: "My conlanging-related website"
+  site-url: https://keras-saryan.github.io/
+  favicon: assets/favicon/favicon.ico
+  bread-crumbs: false
+  twitter-card: true
+  navbar:
+    left:
+      - index.qmd
+      - text: "Languages"
+        menu:
+          - anderiva/index.qmd
+          - kamya/index.qmd
+          - sarifa/index.qmd
+          - xwere-gonom/index.qmd
+      - text: "Resources"
+        menu:
+          - text: "Lexifer Plus"
+            href: "https://keras-saryan.github.io/lexifer-plus/"
+            target: "_blank"
+    right:
+      - text: "{{< fa brands github size=lg >}}"
+        href: https://github.com/keras-saryan
+      - text: "{{< fa brands reddit size=lg >}}"
+        href: https://www.reddit.com/user/keras_saryan
+      - text: "{{< fa brands youtube size=lg >}}"
+        href: https://www.youtube.com/@keras_saryan
+      - text: "{{< fa brands twitch size=lg >}}"
+        href: https://www.twitch.tv/keras_saryan
+      - text: "{{< fa solid mug-saucer size=lg >}}"
+        href: https://ko-fi.com/keras_saryan
+
+format:
+  html:
+    toc: false
+    theme:
+        light: [assets/common.scss, assets/light.scss]
+        dark: [assets/common.scss, assets/dark.scss]
+    include-in-header: assets/fonts.html
+
+editor: source
