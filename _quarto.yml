@@ -23,6 +23,9 @@ website:
           - xwere-gonom/index.qmd
       - text: "Resources"
         menu:
+          - text: "Grambank Comparator"
+            href: "https://keras-saryan.shinyapps.io/grambank-comparator/"
+            target: "_blank"
           - text: "Lexifer Plus"
             href: "https://keras-saryan.github.io/lexifer-plus/"
             target: "_blank"

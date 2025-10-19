@@ -16,11 +16,11 @@ $sidebar-fg: $body-color;
 // Your custom CSS rules go here
 
 body {
-  font-family: "Charis SIL";
+  font-family: "Charis SIL", serif;
 }
 
 .navbar, .nav-link, .sidebar-item, #toc-title, .breadcrumb, .title, h1, h2, h3, h4, h5, h6, button {
-  font-family: "Fira Sans";
+  font-family: "Fira Sans", sans-serif;
 }
 
 .navbar {
@@ -45,7 +45,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 1.5rem;
+  font-size: 1.6rem;
 }
 
 h2 {
