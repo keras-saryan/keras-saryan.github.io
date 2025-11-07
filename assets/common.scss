@@ -19,13 +19,17 @@ body {
   font-family: "Charis SIL", serif;
 }
 
-.navbar, .nav-link, .sidebar-item, #toc-title, .breadcrumb, .title, h1, h2, h3, h4, h5, h6, button {
+.navbar, .nav-footer, .nav-link, .sidebar-item, #toc-title, .breadcrumb, .title, h1, h2, h3, h4, h5, h6, button {
   font-family: "Fira Sans", sans-serif;
 }
 
 .navbar {
   background-color: $primary;
   color: $body-bg;
+}
+
+.nav-footer, .nav-link {
+  font-size: 0.9rem !important;
 }
 
 .navbar-title {
@@ -82,10 +86,6 @@ p, ul, ol, li, .menu-text {
   font-size: 0.9125rem !important;
   margin-top: 0.5rem;
   margin-bottom: 0.5rem;
-}
-
-.nav-link {
-  font-size: 0.9rem !important;
 }
 
 .dropdown-menu.show {

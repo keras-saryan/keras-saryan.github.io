@@ -40,6 +40,7 @@ website:
         href: https://www.twitch.tv/keras_saryan
       - text: "{{< fa solid mug-saucer size=lg >}}"
         href: https://ko-fi.com/keras_saryan
+  # page-footer: "© 2021– [Keras Saryan](https://keras-saryan.github.io/) · [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
 
 format:
   html:
