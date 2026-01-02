@@ -1,47 +1,5 @@
 [
   {
-    "objectID": "xwere-gonom/index.html",
-    "href": "xwere-gonom/index.html",
-    "title": "Xwere Gonom",
-    "section": "",
-    "text": "Xwere Gonom [ˈxʷɛɾɛ kɔˈnɔ̃] – begun October 2022 – is a language spoken by the Łiined Gonom [ɬiːˈnɛt̪ kɔˈnɔ̃], a riverine people living in an area with a tropical climate and a cycle of wet/dry seasons. Their culture has a traditional emphasis on fishing and horticulture, with only a relatively limited amount of animal husbandry.\nThe language is strongly head-initial, exhibiting a basic VSO constituent order, prepositions and postposed adnominal modifiers. It possesses a restrained three-case system which exhibits animacy-based differential argument marking for both subjects and objects. Verbs agree with their absolutive argument in person and number. There are a total of 11 aspects/moods, which are conflated into a single morphological category, but no proper morphological tense or voice. Grammatical number is a salient morphological category only for animate referents. Pronouns and verbal agreement distinguish clusivity in the first person and consanguinity in the first person inclusive and second person; in the third person, there is a distinction between human, other animates and inanimate.\nThe consonant phoneme inventory includes a two-way voiceless–glottalised contrast for bilabial and velar plosives but a three-way voiceless–glottalised–aspirated contrast for dental/alveolar and retroflex plosives and affricates. The vowel phoneme inventory distinguishes four broad monophthongal qualities, all of which come in short–long pairs; there are also various diphthongs; there is a further oral–nasal contrast for all monophthongs and diphthongs. Stress is weight sensitive and anchored towards the right edge of the word: a final syllable is stressed if it is heavy (i.e. contains a diphthong, long vowel, nasal vowel or coda consonant), otherwise stress is penultimate."
-  },
-  {
-    "objectID": "xwere-gonom/index.html#output",
-    "href": "xwere-gonom/index.html#output",
-    "title": "Xwere Gonom",
-    "section": "Output",
-    "text": "Output\nIn April 2023, I gave a presentation entitled Clausal negation in Xwere Gonom at the 10th Language Creation Conference. See the slides here, the clipped video here and the full livestream here.\nIn 2024, I used Xwere Gonom in both the (unofficial) LTS Relay (torch here) and the (official) LTS Mini Relay run by Jessie revealed in LangTime Chat, Episode 59 (torch here)."
-  },
-  {
-    "objectID": "kamya/index.html",
-    "href": "kamya/index.html",
-    "title": "Kamya",
-    "section": "",
-    "text": "Kamya [ˈkamja] is an a priori language set in modern-day south-eastern Europe. I began Kamya in 2018 and have been working on it on and off ever since. It has become the most developed language I’ve worked on to date, both in terms of grammar and vocabulary.\nThe language has a basic SVO constituent order but is strongly head-final in noun phrases; it notably lacks adpositions. It has eight core cases and its alignment is predominantly nominative–accusative with a dab of fluid-S as the dative can be used to express non-volitional subjects. Verbs agree with their subjects in number regardless of whether that is made explicit on the subject itself; they also inflect for various combinations of tense, mood and voice. Kamya has a fairly standard phonological system by European standards, though stress is antepenultimate by default, which is rather uncommon cross-linguistically."
-  },
-  {
-    "objectID": "kamya/index.html#output",
-    "href": "kamya/index.html#output",
-    "title": "Kamya",
-    "section": "Output",
-    "text": "Output\nThe first time I shared information on Kamya publicly was in November 2020 when its “focus suffix” was featured in Episode 4 of Artifexian’s WLRST series (see original document here).\nIn January 2021, I translated a version of the folk tale Stone Soup into Kamya for a Reddit showcase which never materialised. You can read the document I submitted here, which includes some notes on points of grammar found in the text.\nIn March 2021, I gave a presentation entitled The exponence of grammatical number in Kamya at the Digital Language Creation Conference. The slides for this talk can be seen here, the clipped video here and the full livestream here.\nIn 2022, I wrote an article called Topics in adjectival meaning in Kamya which was published in the fifth issue of r/conlangs’ journal Segments on the semantic ranges of nine adjectives. The entire issue can be accessed here and the individual article here.\nIn 2025, I used Kamya in Jessie’s ring of Let’s Have A Relay (torch, mistakes and all, here)."
-  },
-  {
-    "objectID": "kamya/index.html#reference-grammar-extracts",
-    "href": "kamya/index.html#reference-grammar-extracts",
-    "title": "Kamya",
-    "section": "Reference grammar extracts",
-    "text": "Reference grammar extracts\nMy (WIP) reference grammar for Kamya currently stands at around 300–350 pages and a list of its current chapters is given below with links to PDFs of some draft extracts.1\n\nChapter 1: Introduction\nChapter 2: Phonology and orthography\n\nSection 2.4: Stress\n\nChapter 3: Nouns and pronouns\n\nSection 3.2: Grammatical case\n\nChapter 4: Core verbal morphology\nChapter 5: Determiners\nChapter 6: Adjectives\nChapter 7: Numerals and classifiers\nChapter 8: Possession\nChapter 9: Adverbs\nChapter 10: Impersonal constructions\nChapter 11: Further verbal topics\nChapter 12: Phrase structure\nChapter 13: Clause structure\nChapter 14: Questions\nChapter 15: Discourse matters\nChapter 16: Irregular verbs\nChapter 17: Derivational morphology\nAppendix A: Word lists\nAppendix B: Thematic lexicon\nAppendix C: Onomastics\nAppendix D: Example texts"
-  },
-  {
-    "objectID": "kamya/index.html#footnotes",
-    "href": "kamya/index.html#footnotes",
-    "title": "Kamya",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nSince these PDFs are produced from LaTeX files including cross-references to locations outside the extracts in the isolated documents, you will see undefined cross-references (i.e. ??) in certain places.↩︎"
-  },
-  {
     "objectID": "anderiva/index.html",
     "href": "anderiva/index.html",
     "title": "Anderiva",
@@ -53,41 +11,6 @@
     "href": "anderiva/index.html#output",
     "title": "Anderiva",
     "section": "Output",
-    "text": "Output\nIn October 2025, I gave a presentation entitled Kut bero mi… at Kopikon II in which I used an original short story to showcase certain of the language (slides here, the clipped video here and the full livestream here)."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home",
-    "section": "",
-    "text": "I’m a conlanger who creates artistic languages that I usually intend to be more or less naturalistic in nature. I also happen to be a linguist (PhD awarded 2021) and work predominantly in the fields of phonetics and phonology.\nI’ve been constructing languages as a hobby since I was an undergrad and here you can find uploads of and links to some of my work. This currently includes some bits and pieces from Kamya, Xwere Gonom, Sar̃ifa and Anderiva\nMy GitHub also hosts a couple of tools for conlangers I’ve put together: Lexifer Plus, a customised version of the word generator Lexifer Online, and Grambank Comparator, a Shiny app for comparing your language with those languages included in the Grambank sample."
-  },
-  {
-    "objectID": "index.html#about",
-    "href": "index.html#about",
-    "title": "Home",
-    "section": "",
-    "text": "I’m a conlanger who creates artistic languages that I usually intend to be more or less naturalistic in nature. I also happen to be a linguist (PhD awarded 2021) and work predominantly in the fields of phonetics and phonology.\nI’ve been constructing languages as a hobby since I was an undergrad and here you can find uploads of and links to some of my work. This currently includes some bits and pieces from Kamya, Xwere Gonom, Sar̃ifa and Anderiva\nMy GitHub also hosts a couple of tools for conlangers I’ve put together: Lexifer Plus, a customised version of the word generator Lexifer Online, and Grambank Comparator, a Shiny app for comparing your language with those languages included in the Grambank sample."
-  },
-  {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
-    "title": "Home",
-    "section": "Contact",
-    "text": "Contact\nIf you’d like to say hi, give me feedback on my work or get in touch for any other reason, you can do so by e-mail at keras[dot]saryan[at]gmail[dot]com or, if you prefer, I’m also on Reddit as u/keras_saryan and on Discord as keras_saryan. You can find me on YouTube as @keras_saryan and on Twitch as keras_saryan, albeit only as a viewer not a creator.\n\n\n\n\n\n\nUnless otherwise stated or permission is otherwise granted, all content posted here authored by me is published under a CC BY-NC-SA 4.0 licence."
-  },
-  {
-    "objectID": "sarifa/index.html",
-    "href": "sarifa/index.html",
-    "title": "Sar̃ifa",
-    "section": "",
-    "text": "Sar̃ifa [ˈsaɾɪɸə] is a head-final language with a basic SOV constituent order. Nouns have a singular–paucal–plural number distinction; the plural is formed in various lexically-determined ways with the paucal being built off the plural, though sometimes with additional changes. Verbs are conjugated for person/number, tense/aspect, mood and voice. Verb stems and person markers both possess short and long forms and it is the combination of these short and long forms that expresses tense/aspect. Sar̃ifa also makes copious use of converbs and applicatives. The phonemic inventory includes ejectives and implosive /ɓ/ as well as labialised velars and glottals. There are various phonological processes of assimilation, dissimilation and reduction, some of which are still fully predictable whereas others have become lexicalised to some degree."
-  },
-  {
-    "objectID": "sarifa/index.html#output",
-    "href": "sarifa/index.html#output",
-    "title": "Sar̃ifa",
-    "section": "Output",
-    "text": "Output\nIn 2025, I used Sar̃ifa in the LTS story relay revealed in LangTime Studio, Special Episode 17 on the eve of Kopikon II (torch here)."
+    "text": "Output\nIn October 2025, I gave a presentation entitled Kut bero mi… at Kopikon II in which I used an original short story to showcase certain of the language (slides here, the clipped video here and the full livestream here).\nI used Anderiva throughout Lexember in 2025 and the full final PDF of each day’s entry can be found here."
   }
 ]
