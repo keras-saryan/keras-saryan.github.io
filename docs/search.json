@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "I’m a conlanger who creates artistic languages that I usually intend to be more or less naturalistic in nature. I also happen to be a linguist (PhD awarded 2021) and work predominantly in the fields of phonetics and phonology.\nI’ve been constructing languages as a hobby since I was an undergrad and here you can find uploads of and links to some of my work. This currently includes some bits and pieces from Kamya, Xwere Gonom, Sar̃ifa and Anderiva\nMy GitHub also hosts a couple of tools for conlangers I’ve put together: Lexifer Plus, a customised version of the word generator Lexifer Online, and Grambank Comparator, a Shiny app for comparing your language with those languages included in the Grambank sample."
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Home",
+    "section": "",
+    "text": "I’m a conlanger who creates artistic languages that I usually intend to be more or less naturalistic in nature. I also happen to be a linguist (PhD awarded 2021) and work predominantly in the fields of phonetics and phonology.\nI’ve been constructing languages as a hobby since I was an undergrad and here you can find uploads of and links to some of my work. This currently includes some bits and pieces from Kamya, Xwere Gonom, Sar̃ifa and Anderiva\nMy GitHub also hosts a couple of tools for conlangers I’ve put together: Lexifer Plus, a customised version of the word generator Lexifer Online, and Grambank Comparator, a Shiny app for comparing your language with those languages included in the Grambank sample."
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Home",
+    "section": "Contact",
+    "text": "Contact\nIf you’d like to say hi, give me feedback on my work or get in touch for any other reason, you can do so by e-mail at keras[dot]saryan[at]gmail[dot]com or, if you prefer, I’m also on Reddit as u/keras_saryan and on Discord as keras_saryan. You can find me on YouTube as @keras_saryan and on Twitch as keras_saryan, albeit only as a viewer not a creator.\n\n\n\n\n\n\nUnless otherwise stated or permission is otherwise granted, all content posted here authored by me is published under a CC BY-NC-SA 4.0 licence."
+  },
+  {
     "objectID": "anderiva/index.html",
     "href": "anderiva/index.html",
     "title": "Anderiva",
@@ -11,6 +32,6 @@
     "href": "anderiva/index.html#output",
     "title": "Anderiva",
     "section": "Output",
-    "text": "Output\nIn October 2025, I gave a presentation entitled Kut bero mi… at Kopikon II in which I used an original short story to showcase certain of the language (slides here, the clipped video here and the full livestream here).\nI used Anderiva throughout Lexember in 2025 and the full final PDF of each day’s entry can be found here."
+    "text": "Output\nIn October 2025, I gave a presentation entitled Kut bero mi… at Kopikon II, held at the University of Edinburgh, in which I used an original short story to showcase certain aspects of the language (slides here, the clipped video here and the full livestream here).\nI used Anderiva throughout Lexember in 2025 and the full final PDF of the entries for each day can be found here."
   }
 ]
