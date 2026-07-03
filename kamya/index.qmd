@@ -8,7 +8,7 @@ The language has a basic SVO constituent order but is strongly head-final in nou
 
 ## Output
 
-The first time I shared information on Kamya publicly was in November 2020 when its "focus suffix" was featured in [Episode 4](https://www.youtube.com/watch?v=MyU7XsDCIc8&t=122s) of [Artifexian](https://www.youtube.com/channel/UCeh-pJYRZTBJDXMNZeWSUVA)'s [WLRST](https://youtube.com/playlist?list=PLduA6tsl3gyjAoPbTEXUlhIlOVFSG7LMs) series (see original document [here](../files/kamya-wlrst-2020.pdf)).
+The first time I shared information on Kamya publicly was in November 2020 when its "focus suffix" was featured in [Episode 4](https://www.youtube.com/watch?v=MyU7XsDCIc8&t=122s) of [Artifexian](https://www.youtube.com/channel/UCeh-pJYRZTBJDXMNZeWSUVA)'s [WLRST](https://youtube.com/playlist?list=PLduA6tsl3gyjAoPbTEXUlhIlOVFSG7LMs) series (original document [here](../files/kamya-wlrst-2020.pdf)).
 
 In January 2021, I translated a version of the folk tale [*Stone Soup*](https://en.wikipedia.org/wiki/Stone_Soup) into Kamya for a Reddit showcase which never materialised. You can read the document I submitted [here](../files/kamya-reddit-showcase-2021.pdf), which includes some notes on points of grammar found in the text.
 

@@ -10,6 +10,8 @@ The consonant phoneme inventory includes a two-way voiceless–glottalised contr
 
 ## Output
 
-In April 2023, I gave a presentation entitled *Clausal negation in Xwere Gonom* at the [10^th^ Language Creation Conference](https://conlang.org/language-creation-conference/lcc10/). See the slides [here](../files/xwg-lcc10-2023.pdf), the clipped video [here](https://www.youtube.com/watch?v=wzm6u47ney4) and the full livestream [here](https://www.youtube.com/watch?v=Cp4-Mmj7-RU).
+In April 2023, I gave a presentation entitled *Clausal negation in Xwere Gonom* at the [10^th^ Language Creation Conference](https://conlang.org/language-creation-conference/lcc10/) (slides [here](../files/xwg-lcc10-2023.pdf), clipped video [here](https://www.youtube.com/watch?v=wzm6u47ney4) and full livestream [here](https://www.youtube.com/watch?v=Cp4-Mmj7-RU).
 
 In 2024, I used Xwere Gonom in both the (unofficial) [LTS Relay](https://keras-saryan.github.io/lts-relay/)  (torch [here](../files/xwg-lts-relay-2024.pdf)) and the (official) LTS Mini Relay run by [Jessie](https://www.quothalinguist.com/) revealed in [*LangTime Chat, Episode 59*](https://www.youtube.com/watch?v=WQOQJ2JKV1I) (torch [here](../files/xwg-lts-mini-relay-2024.pdf)).
+
+In 2026, I used the language in the "casual [Conlangery](https://conlangery.com/) relay" run on Discord (torch [here](../files/xwg-conlangery-relay-2026.pdf) and full reveal [here](https://docs.google.com/presentation/d/1ayEADeb0ITo2QFgjzBpEXlfQjFN-LoUEoz_wNQvCEz4/)).
